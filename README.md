@@ -4,6 +4,7 @@ This document lists the contests participated in, along with the ranking, contes
 
 | Contest Name                                                                                      | Ranking       | Type                                  | Team Name      |
 |---------------------------------------------------------------------------------------------------|---------------|---------------------------------------|----------------|
+| [ICPC Preliminary Dhaka Site 2024](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)                                           | 215th          | National (Programming Contest)        | CoU_Skadooosh2.0      |
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)                                           | 39th          | National (Programming Contest)        | Skadooosh      |
 | [JU NCPC 2024 (Main Round)](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)                                                                     | 148th         | National (Programming Contest)        | CoU_SegmentHero|
 | [SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings)                                                                        | 103rd         | National (Programming Contest)        | CoU_SegmentHero|
