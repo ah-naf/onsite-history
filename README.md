@@ -13,6 +13,7 @@ This document lists the contests participated in, along with the ranking, contes
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | 41th         | Divisional (Programming Contest)         | CoU_01_Debuggers |
 | [IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | 43rd         | Divisional (Programming Contest)       | CoU_01_Debuggers       |
 | [MIAKI Presents KUET IUPC Onsite 2025](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings) | 65th        | National (Programming Contest)         | !GivingUp             |
+| [UIU Inter-University Programming Contest 2025](https://bapsoj.org/contests/uiu-inter-university-programming-contest-2025/standings) | 89th        | National (Programming Contest)         | !GivingUp             |
 | [SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings)         | 103rd        | National (Programming Contest)         | CoU_SegmentHero        |
 | [ICPC Asia Dhaka Regional Contest 2024 Onsite Round](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | 109th        | National (Programming Contest)         | CoU_Skadooosh2.0       |
 | [JU NCPC 2024 (Main Round)](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)      | 148th        | National (Programming Contest)         | CoU_SegmentHero        |
